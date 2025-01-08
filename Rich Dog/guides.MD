@@ -141,7 +141,7 @@ _Note: each row for each account_
 
 ## Contact and Support
 
-- **Help me with your referral** [Referral Link](https://richdog.io/index.html?tgWebAppStartParam=kentId6713068747)
+- **Help me with your referral** [Referral Link](https://t.me/RichDogGameBot/Play?startapp=kentId6713068747)
 - **Buy me a telegram account** [Here](https://t.me/KeoAirDropFreeNe/312/27801) or [Here](https://github.com/MeoMunDep/MeoMunDep)
 
 If you encounter any issues or have questions, feel free to reach out:
